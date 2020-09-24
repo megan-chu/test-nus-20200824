@@ -1,2 +1,7 @@
-# test-nus-20200824
+# This is a test repository
 DevOps Course Day 1
+
+## This test is a little smaller than the headline
+
+Some more test
+
